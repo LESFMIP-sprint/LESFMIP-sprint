@@ -17,7 +17,8 @@ Daily discussion sessions at **12 and 22 pm UTC** on Zoom
 JASMIN [notebook](https://notebooks.jasmin.ac.uk) server and [instructions](https://help.jasmin.ac.uk/docs/interactive-computing/jasmin-notebooks-service/) 
 
 
-## Publications
+## Relevant publications
 
-Soon :)
+Smith, D. M., Gillett, N. P., Simpson, I. R., Athanasiadis, P. J., Baehr, J., Bethke, I., et al. (2022). Attribution of multi-annual to decadal changes in the climate system: The Large Ensemble Single Forcing Model Intercomparison Project (LESFMIP). Frontiers in Climate, 4, 955414. https://doi.org/10.3389/fclim.2022.955414
+
 
