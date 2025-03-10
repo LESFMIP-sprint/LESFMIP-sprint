@@ -3,7 +3,7 @@ site_dir: public
 nav:
   - 'index.md'
   - 'highlights.md'
-  # - 'data.md'
+  - 'data.md'
   # - 'setup.md'
   # - 'sprint.md'
   # - 'tutorials.md'
