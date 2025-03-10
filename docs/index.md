@@ -19,6 +19,6 @@ JASMIN [notebook](https://notebooks.jasmin.ac.uk) server and [instructions](http
 
 ## Relevant publications
 
-Smith, D. M., Gillett, N. P., Simpson, I. R., Athanasiadis, P. J., Baehr, J., Bethke, I., et al. (2022). Attribution of multi-annual to decadal changes in the climate system: The Large Ensemble Single Forcing Model Intercomparison Project (LESFMIP). Frontiers in Climate, 4, 955414. https://doi.org/10.3389/fclim.2022.955414
+Smith, D. M., Gillett, N. P., Simpson, I. R., Athanasiadis, P. J., Baehr, J., Bethke, I., et al. (2022). Attribution of multi-annual to decadal changes in the climate system: The Large Ensemble Single Forcing Model Intercomparison Project (LESFMIP). Frontiers in Climate, 4, 955414. [https://doi.org/10.3389/fclim.2022.955414](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2022.955414/full)
 
 
