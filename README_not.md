@@ -1,5 +1,5 @@
-# CANARI Sprint DOCUMENTATION
-This project represents the documentation for the CANARI Sprint.
+# LESFMIP Sprint DOCUMENTATION
+This project represents the documentation for the LESFMIP Sprint. It is forked and based on the successful CANARI sprint, therefore there are some unused pages (and associated information/ templates) that correspond to the CANARI sprint. Please check that you are not uploading CANARI templates but ajdust as needed for LESFMIP. 
 
 
 ## Information about MkDocs
