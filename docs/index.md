@@ -16,5 +16,22 @@ Daily discussion sessions at **12 and 22 pm UTC** on Zoom
 
 JASMIN [notebook](https://notebooks.jasmin.ac.uk) server and [instructions](https://help.jasmin.ac.uk/docs/interactive-computing/jasmin-notebooks-service/) 
 
+**Schedule overview:** 
+
+**Monday** 
+12 pm: Introduction (Andrea)
+22 pm: Introduction (Scott)
+**Tuesday**
+12 pm: Highlights & discussion (Ales/Annalisa, TBC)
+22 pm: Highlights & discussion (Doug)
+**Wednesday**
+12 pm: Highlights & discussion (Chaim)
+22 pm: Highlights & discussion (Leandro)
+**Thursday** 
+12 pm: Highlights & discussion (Vikki)
+22 pm: Highlights & discussion (June-Yi)
+
+In case of any issues, please contact any of the organising team listed above! 
+
 
 
