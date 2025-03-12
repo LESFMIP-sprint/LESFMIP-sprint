@@ -18,18 +18,21 @@ JASMIN [notebook](https://notebooks.jasmin.ac.uk) server and [instructions](http
 
 **Schedule overview:** 
 
-**Monday** 
-12 pm: Introduction (Andrea)
-22 pm: Introduction (Scott)
-**Tuesday**
-12 pm: Highlights & discussion (Ales/Annalisa, TBC)
-22 pm: Highlights & discussion (Doug)
-**Wednesday**
-12 pm: Highlights & discussion (Chaim)
-22 pm: Highlights & discussion (Leandro)
-**Thursday** 
-12 pm: Highlights & discussion (Vikki)
-22 pm: Highlights & discussion (June-Yi)
+**Monday** <br />
+12 pm: Introduction (Andrea)<br />
+22 pm: Introduction (Scott)<br />
+
+**Tuesday**<br />
+12 pm: Highlights & discussion (Ales/Annalisa, TBC)<br />
+22 pm: Highlights & discussion (Doug)<br />
+
+**Wednesday**<br />
+12 pm: Highlights & discussion (Chaim)<br />
+22 pm: Highlights & discussion (Leandro)<br />
+
+**Thursday**<br />
+12 pm: Highlights & discussion (Vikki)<br />
+22 pm: Highlights & discussion (June-Yi)<br />
 
 In case of any issues, please contact any of the organising team listed above! 
 
