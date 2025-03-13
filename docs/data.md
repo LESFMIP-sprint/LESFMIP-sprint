@@ -21,7 +21,7 @@ Code written by working groups can go within this directories
 
 Relevant processed data from reanalysis can go here:
 
-/gws/nopw/j04/leader_epesc/ERA5/
+/gws/nopw/j04/leader_epesc/era5/
 
 These folders should all have group write access turned on so that you can add to them, but please be careful about accidentally overwriting/removing existing files.
 
