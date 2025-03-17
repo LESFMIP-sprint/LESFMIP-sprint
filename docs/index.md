@@ -20,10 +20,13 @@ JASMIN [notebook](https://notebooks.jasmin.ac.uk) server and [instructions](http
 
 **Monday** <br />
 12 pm: Introduction (Andrea)<br />
+  - Short round of introdutions: Objectives, areas of work, working groups (Annalisa, Chaim, Leandro, June-Yi or Markus)
+  - Short presentation by Sadie Bartholomew on cf-python
+  - A few slides/ figures by Chaim
 22 pm: Introduction (Scott)<br />
 
 **Tuesday**<br />
-12 pm: Highlights & discussion (Ales/Annalisa, TBC)<br />
+12 pm: Highlights & discussion (Ales)<br />
 22 pm: Highlights & discussion (Doug)<br />
 
 **Wednesday**<br />
