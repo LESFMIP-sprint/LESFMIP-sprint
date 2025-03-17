@@ -22,7 +22,8 @@ JASMIN [notebook](https://notebooks.jasmin.ac.uk) server and [instructions](http
 12 pm: Introduction (Andrea)<br />
   - Short round of introdutions: Objectives, areas of work, working groups (Annalisa, Chaim, Leandro, June-Yi or Markus)
   - Short presentation by Sadie Bartholomew on cf-python
-  - A few slides/ figures by Chaim
+  - A few slides/ figures by Chaim<br />
+  
 22 pm: Introduction (Scott)<br />
 
 **Tuesday**<br />
